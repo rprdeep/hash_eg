@@ -86,7 +86,8 @@ public class guavatable
 	                   row_entry++;
     	                }	 
     }
-    	           // System.out.println ("GUAVA::::"+hashMap.get("TC_2", "CC"));
+    	          
+    	         // System.out.println ("GUAVA::::"+hashMap.get("TC_3", "CC"));
     	            System.out.println (hashMap);
     	            System.out.println ("hash Map for sheet '"+shname+"' is created");
     	            return hashMap;
